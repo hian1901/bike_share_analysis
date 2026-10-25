@@ -10,7 +10,7 @@ Dự án phân tích xu hướng sử dụng dịch vụ của khách hàng
   -Dữ liệu cho thấy nhóm khách subcriber có xu hướng sử dụng phương tiên ở những lộ trình trung bình-ngắn cho việc di chuyển làm việc hàng ngày. Đây cũng là nhóm khách đóng góp lớn vào lưu lượng sử dụng hàng ngày
   - Còn nhóm casual thường đi các chuyến có lộ trình dài hơn nhưng số lần sử dụng ít hơn. Nhóm này thường là những nhóm du lịch hoặc những người có nhã hứng đi đây đó. Đây là nhóm đóng góp lớn vào thời lượng sử dụng xe
   - Đề xuất: có thể đưa ra các chương trình khuyến mãi dành cho nhóm khách này . Ví dụ: thuê vào cuối tuần sẽ có ưu đãi giảm giá ...
-    **3**
+**3**
     -Bằng việc sử dụng CTE, chúng tôi phát hiện ra một số trạm là điểm ử đọng - vì có nhiều xe đổ về nhưng không có chiều ngược lại ), và số trạm thì ngược lại là điểm cạn kiệt - nơi có số lượng người sử dụng nhiều
     -các trạm ứ động nhiều có thể là công ty , trung tâm thương mại hoặc các điểm vui chơi , còn các trạm cạn kiệt thường xuất phát tại các khu dân cư, chung cư, trạm tàu ,...
     -Đề xuất: có thể đưa ra các chương trình khuyến khích trả xe về các trạm trống để có thể nhận thưởng .
